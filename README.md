@@ -24,7 +24,7 @@ Welcome to **Rust File Reader & Writer Application**, a simple yet powerful **co
 
 <b>To run this project locally, follow these steps:</b> <br>
 
-▶ **Step 1:** Install Rust – [Download here](https://www.rust-lang.org/tools/install) <br>  
+▶ **Step 1:** Install Rust –> [Download here](https://www.rust-lang.org/tools/install) <br>  
 ▶ **Step 2:** Clone this repository:  
 ```bash
 git clone https://github.com/yourusername/Rust-File-Reader-Writer-Application.git
